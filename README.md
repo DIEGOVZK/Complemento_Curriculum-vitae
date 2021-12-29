@@ -10,6 +10,10 @@ Primeira exeperiência com programação de microcontroladores, código escrito 
 Biblioteca criada para comunicação serial com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
 
 #
+### [SEN-14209_sensorial_CubeSat1U.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual
+Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupts do ESP8266, utilizado no sistema sensorial do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
+
+#
 ### [leitor_sensorial_CubeSat1U.py](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/leitor_sensorial_CubeSat1U/leitor_sensorial_CubeSat1U.py) - 2021
 Código de leitura serial escrito em Python para leitura, processamento e armazenamento dos dados dos sensores do satélite. Algoritmo antecessor ao [serialSat.js]().
 
