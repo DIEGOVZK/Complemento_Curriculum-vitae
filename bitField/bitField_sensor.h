@@ -1,7 +1,7 @@
 /**
  * @file       BitField_Sensorial.h
  * @author     Diego Anestor Coutinho
- * @license    Internal Use Only
+ * @license    Closed - Internal Use Only
  * @copyright  Copyright (c) 2021 BitField
  * @date       Ago 2021
  */
