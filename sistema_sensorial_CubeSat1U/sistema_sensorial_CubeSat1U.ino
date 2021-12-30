@@ -1,9 +1,9 @@
 /**
- * @file       AlphaCounter.h
+ * @file       sistema_sensorial_CubeSat1U.ino
  * @author     Diego Anestor Coutinho
  * @license    Closed - Internal Use Only
  * @copyright  Copyright (c) 2021 Inatel Cubesat Design Team
- * @date       Dec 2021
+ * @date       Abr 2021
  * 
  * O algorítmo é parte do computador de bordo do CubeSat criado por: Inatel CubeSat Design Team.
  * O direito de uso é interno, e distribuível entre os integrantes do grupo.
