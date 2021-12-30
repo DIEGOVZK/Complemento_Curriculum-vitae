@@ -1,6 +1,9 @@
-/*
- * Este pedaço de código foi escrito por Diego Anestor Coutinho.
- * diego.anestor@gec.inatel.br ou +55(35)99963-1997
+/**
+ * @file       AlphaCounter.h
+ * @author     Diego Anestor Coutinho
+ * @license    Closed - Internal Use Only
+ * @copyright  Copyright (c) 2021 Inatel Cubesat Design Team
+ * @date       Dec 2021
  * 
  * O algorítmo é parte do computador de bordo do CubeSat criado por: Inatel CubeSat Design Team.
  * O direito de uso é interno, e distribuível entre os integrantes do grupo.
