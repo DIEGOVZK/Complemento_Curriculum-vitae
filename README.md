@@ -5,11 +5,14 @@ Códigos exemplificando habilidades com programação em microcontroladores.
 ### [sistema_sensorial_CubeSat1U.ino](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/sistema_sensorial_CubeSat1U.ino) - 2020 🛰️
 Biblioteca criada para comunicação serial com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
 
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20220101_105409_1.jpg" height="250">
+
+
 #
 ### [sistema_sensorial_CanSat-INPE.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CanSat-INPE/sistema_sensorial_CanSat-INPE.h) & [sistema_sensorial_CanSat-INPE.ino](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CanSat-INPE/sistema_sensorial_CanSat-INPE.ino) - 2021 🛰️
 Biblioteca criada para comunicação serial com o MPL3115A2, sensor de pressão e altitude, utilizado no sistema sensorial do CanSat desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team), para competir no [INPE CanSat design 2022](http://www3.inpe.br/cubedesign/2022/).
 
-<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210811_222827.jpg" height="400">
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210811_222827.jpg" height="250">
 
 #
 ### [SEN-14209_sensorial_CubeSat1U.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual 🛰️
@@ -25,5 +28,5 @@ Código de leitura serial escrito em Python para leitura, processamento e armaze
 ### [bitField_sensor.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/bitField/bitField_sensor.h) & [bitField_atuador.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/bitField/bitField_atuador.h) - 2021 💻
 Biblioteca e algoritmo desenvolvidos para leitura sensorial e atuação física no sistema de irrigação inteligente criado para participação no [Desafio FLEX de Inovação](https://desafioinovacao.com/desafios/desafio-flex-inovacao).
 
-<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210827_173933.jpg" height="400">
-<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210901_180547.jpg" height="400">
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210827_173933.jpg" height="250">
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210901_180547.jpg" height="250">
