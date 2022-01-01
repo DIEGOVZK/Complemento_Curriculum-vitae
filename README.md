@@ -17,7 +17,7 @@ Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupts
 
 #
 ### [leitor_sensorial_CubeSat1U.py](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/leitor_sensorial_CubeSat1U/leitor_sensorial_CubeSat1U.py) - 2021 🛰️
-Código de leitura serial escrito em Python para leitura, processamento e armazenamento dos dados dos sensores do satélite. Algoritmo antecessor ao [serialSat.js]().
+Código de leitura serial escrito em Python para leitura, processamento e armazenamento dos dados dos sensores do satélite.
 
 <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/gif%20CubeSat.gif" height="400">
 
