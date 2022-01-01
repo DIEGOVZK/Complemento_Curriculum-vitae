@@ -9,7 +9,7 @@ Biblioteca criada para comunicação serial com o sensores do módulo GY-87, uti
 ### [sistema_sensorial_CanSat-INPE.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CanSat-INPE/sistema_sensorial_CanSat-INPE.h) & [sistema_sensorial_CanSat-INPE.ino](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CanSat-INPE/sistema_sensorial_CanSat-INPE.ino) - 2021 🛰️
 Biblioteca criada para comunicação serial com o MPL3115A2, sensor de pressão e altitude, utilizado no sistema sensorial do CanSat desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team), para competir no [INPE CanSat design 2022](http://www3.inpe.br/cubedesign/2022/).
 
-![CanSat img](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210811_222827.jpg?raw=true&s=200)
+![CanSat img](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210811_222827.jpg?s=10)
 
 #
 ### [SEN-14209_sensorial_CubeSat1U.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual 🛰️
