@@ -2,6 +2,10 @@
 Códigos exemplificando habilidades com programação em microcontroladores.
 
 #
+### [SEN-14209_sensorial_CubeSat1U.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual 🛰️
+Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupções do ESP8266, utilizado no sistema sensorial do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
+
+#
 ### [sistema_sensorial_CubeSat1U.ino](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/sistema_sensorial_CubeSat1U.ino) - 2020 🛰️
 Biblioteca criada para comunicação serial com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
 
@@ -18,10 +22,6 @@ Biblioteca criada para comunicação serial com o MPL3115A2, sensor de pressão 
 Código de leitura serial escrito em Python para leitura, processamento e armazenamento dos dados dos sensores do satélite.
 
 <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/gif%20CubeSat.gif" height="400">
-
-#
-### [SEN-14209_sensorial_CubeSat1U.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual 🛰️
-Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupts do ESP8266, utilizado no sistema sensorial do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
 
 #
 ### [bitField_sensor.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/bitField/bitField_sensor.h) & [bitField_atuador.h](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/bitField/bitField_atuador.h) - 2021 💻
