@@ -6,6 +6,9 @@
  * O algoritmo é para resolução do execício 2, relatório 5 de 2021_1
  * Tema: Dispositivos de Entrada e Saída (GPIO) – Exercício: Nível
  * Contato: diego.anestor@gec.inatel.br ou +5535999631997.
+ 
+ * ---> CIRCUITO EM: https://www.tinkercad.com/things/k90WWUg5Umw-e209-rel-5-exemplo-2
+ 
 */
 
 /* define as saídas -> válvula e indicadores */
