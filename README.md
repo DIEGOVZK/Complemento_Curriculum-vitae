@@ -1,6 +1,15 @@
 # Curriculum-vitae-E209 ⬇️
 Códigos exemplificando habilidades com programação em microcontroladores.
 
+#
+### [Exercício: Nível - Relatório 5 / 2021_1](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/EXEMPLO_REL5_EX2/ControleN%C3%ADvel_Arduino.c) - 2022 💻
+Exercício 2 do relatório 5 do primeiro semestre de 2021, feito para exemplificar habilidades para criação de máquinas de estado e manipulação de endereços de memória para operações com o ATmega328P. [Exemplo no TinkerCad](https://www.tinkercad.com/things/k90WWUg5Umw-e209-rel-5-exemplo-2).
+
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/diagrama_rel5_e209_example.png" height="250">
+<p float="left">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/execu%C3%A7%C3%A3o_rel5_e209_example1.png" height="200">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/execu%C3%A7%C3%A3o_rel5_e209_example2.png" height="200">
+</p>
 
 #
 ### [INPE CubeDesign Virtual 2021](http://www.inpe.br/cubedesign/2021/) - 2021 🛰️
