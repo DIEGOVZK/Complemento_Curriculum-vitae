@@ -35,7 +35,7 @@ Código de leitura serial escrito em Python para leitura, processamento e armaze
 Biblioteca e algoritmo desenvolvidos para leitura sensorial e atuação física no sistema de irrigação inteligente criado para participação no [Desafio FLEX de Inovação](https://desafioinovacao.com/desafios/desafio-flex-inovacao).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210827_173933.jpg" height="270">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210901_180547.jpg" height="270">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Diagrama%20de%20blocos%20BitField.png" height="270">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210827_173933.jpg" height="250">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210901_180547.jpg" height="250">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Diagrama%20de%20blocos%20BitField.png" height="250">
 </p>
