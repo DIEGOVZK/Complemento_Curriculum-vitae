@@ -22,7 +22,7 @@ Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupç
 
 #
 ### [sistema_sensorial_CubeSat1U.ino](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/sistema_sensorial_CubeSat1U/sistema_sensorial_CubeSat1U.ino) - 2020 🛰️
-Biblioteca criada para comunicação serial com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
+Biblioteca criada para comunicação serial I²C com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
 
 <p float="left">
   <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20220101_105409_1.jpg" height="210">
