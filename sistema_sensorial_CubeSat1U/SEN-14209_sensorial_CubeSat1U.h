@@ -10,7 +10,7 @@
  * Contato: diego.anestor@gec.inatel.br ou +5535999631997.
 */
 
-uint32_t pulseCount = 0;
+volatile uint32_t pulseCount = 0;
 void IRAM_ATTR pulseHandler()
 {
   pulseCount++;
