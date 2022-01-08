@@ -6,8 +6,8 @@ Códigos exemplificando habilidades com programação em microcontroladores.
 Exercício 2 do relatório 5 do primeiro semestre de 2021, feito para exemplificar habilidades para criação de máquinas de estado e manipulação de endereços de memória para operações com o ATmega328P. [Exemplo no TinkerCad](https://www.tinkercad.com/things/k90WWUg5Umw-e209-rel-5-exemplo-2).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/diagrama_rel5_e209_example.png" height="250">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/execu%C3%A7%C3%A3o_rel5_e209_example2.png" height="250">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/diagrama_rel5_e209_example.png" width="49%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/execu%C3%A7%C3%A3o_rel5_e209_example2.png" width="49%">
 </p>
 
 #
@@ -25,8 +25,8 @@ Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupç
 Biblioteca criada para comunicação serial I²C com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20220101_105409_1.jpg" height="210">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Esquem%C3%A1tico%20de%20conex%C3%B5es.png" height="210">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20220101_105409_1.jpg" width="49%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Esquem%C3%A1tico%20de%20conex%C3%B5es.png" width="49%">
 </p>
 
 #
@@ -46,7 +46,7 @@ Código de leitura serial escrito em Python para leitura, processamento e armaze
 Biblioteca e algoritmo desenvolvidos para leitura sensorial e atuação física no sistema de irrigação inteligente criado para participação no [Desafio FLEX de Inovação](https://desafioinovacao.com/desafios/desafio-flex-inovacao).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210827_173933.jpg" height="250">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210901_180547.jpg" height="250">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Diagrama%20de%20blocos%20BitField.png" height="250">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210827_173933.jpg" width="30%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20210901_180547.jpg" width="33%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Diagrama%20de%20blocos%20BitField.png" width="33%">
 </p>
