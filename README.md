@@ -25,8 +25,8 @@ Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupç
 Biblioteca criada para comunicação serial com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20220101_105409_1.jpg" height="220">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Esquem%C3%A1tico%20de%20conex%C3%B5es.png" height="220">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/IMG_20220101_105409_1.jpg" height="200">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/imgs/Esquem%C3%A1tico%20de%20conex%C3%B5es.png" height="200">
 </p>
 
 #
