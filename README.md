@@ -17,12 +17,12 @@ Máquina de estado para operação completa do sistema de reação e controle do
 <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/Diagrama%20de%20Estado%20INPE%20VIRTUAL%20(1).png" height="300">
 
 #
-### [Interruptores com ESP8266 - NodeMCU](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Inatel%20CubeSat%20Design%20Team/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual 🛰️
-Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupções do ESP8266, utilizado no sistema sensorial do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
-
-#
 ### [Comunicação I²C com sensores usando ATmega328P](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Inatel%20CubeSat%20Design%20Team/sistema_sensorial_CubeSat1U/sistema_sensorial_CubeSat1U.ino) - 2020 🛰️
 Biblioteca criada para comunicação serial I²C com o sensores do módulo GY-87, utilizado no sistema sensorial do satélite desenvolvido pelo [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team).
+
+#
+### [Interruptores com ESP8266 - NodeMCU](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Inatel%20CubeSat%20Design%20Team/sistema_sensorial_CubeSat1U/SEN-14209_sensorial_CubeSat1U.h) - 2021 / atual 🛰️
+Biblioteca criada para leitura assíncrona do sensor SEN-14209 usando interrupções do ESP8266, utilizado no sistema sensorial do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
 
 <p float="left">
   <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/IMG_20220101_105409_1.jpg" width="49%">
