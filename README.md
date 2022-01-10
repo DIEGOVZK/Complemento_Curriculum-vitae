@@ -37,7 +37,7 @@ Biblioteca criada para comunicação serial com o MPL3115A2, sensor de pressão 
 
 #
 ### [Tratamento de dados sensoriais providos do ATmega328P](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Inatel%20CubeSat%20Design%20Team/leitor_sensorial_CubeSat1U/leitor_sensorial_CubeSat1U.py) - 2021 🛰️
-Código de leitura serial escrito em Python para leitura, processamento e armazenamento dos dados dos sensores do satélite.
+Código de leitura serial escrito em Python para leitura, processamento e armazenamento de dados sensoriais.
 
 <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/gif%20CubeSat.gif" height="400">
 
