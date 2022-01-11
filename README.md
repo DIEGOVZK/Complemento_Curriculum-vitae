@@ -23,7 +23,7 @@ Exercício 3 do relatório 7 do primeiro semestre de 2021, feito para exemplific
 ### [INPE CubeDesign Virtual 2021](http://www.inpe.br/cubedesign/2021/) - 2021 🛰️
 Máquina de estado para operação completa do sistema de reação e controle do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
 
-<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/Diagrama%20de%20Estado%20INPE%20VIRTUAL%20(1).png" height="400">
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/Diagrama%20de%20Estado%20INPE%20VIRTUAL%20(1).png" height="350">
 
 #
 ### [Comunicação I²C com sensores usando ATmega328P](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Inatel%20CubeSat%20Design%20Team/sistema_sensorial_CubeSat1U/sistema_sensorial_CubeSat1U.ino) - 2020 🛰️
