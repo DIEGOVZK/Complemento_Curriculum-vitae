@@ -11,6 +11,15 @@ Exercício 2 do relatório 5 do primeiro semestre de 2021, feito para exemplific
 </p>
 
 #
+### [E209 - Exercício: Interruptores - Relatório 7 / 2021_1](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Exerc%C3%ADcios%20E209/Interrup%C3%A7%C3%A3oExterna_Arduino.c) - 2022 💻
+Exercício 3 do relatório 7 do primeiro semestre de 2021, feito para exemplificar habilidades para criação de lógicas de Interrupção com o ATmega328P. [Exemplo no TinkerCad](https://www.tinkercad.com/things/ftL9kai7N9I-e209-rel-7-exemplo-3).
+
+<p float="left">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/ex3%20cod.png" width="49%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/ex3%20exec.png" width="49%">
+</p>
+
+#
 ### [INPE CubeDesign Virtual 2021](http://www.inpe.br/cubedesign/2021/) - 2021 🛰️
 Máquina de estado para operação completa do sistema de reação e controle do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
 
