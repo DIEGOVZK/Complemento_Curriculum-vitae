@@ -6,8 +6,8 @@ Códigos exemplificando habilidades com programação em microcontroladores.
 Exercício 2 do relatório 5 do primeiro semestre de 2021, feito para exemplificar habilidades para criação de máquinas de estado e manipulação de endereços de memória para operações com o ATmega328P. [Exemplo no TinkerCad](https://www.tinkercad.com/things/k90WWUg5Umw-e209-rel-5-exemplo-2).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/diagrama_rel5_e209_example.png" width="49%">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/execu%C3%A7%C3%A3o_rel5_e209_example2.png" width="49%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/diagrama_rel5_e209_example.png" width="38%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/execu%C3%A7%C3%A3o_rel5_e209_example2.png" width="58%">
 </p>
 
 #
@@ -15,7 +15,7 @@ Exercício 2 do relatório 5 do primeiro semestre de 2021, feito para exemplific
 Exercício 3 do relatório 7 do primeiro semestre de 2021, feito para exemplificar habilidades para criação de lógicas de Interrupção com o ATmega328P. [Exemplo no TinkerCad](https://www.tinkercad.com/things/ftL9kai7N9I-e209-rel-7-exemplo-3).
 
 <p float="left">
-  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/ex3%20cod.png" width="49%">
+  <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/ex3%20cod.png" width="33%">
   <img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/ex3%20exec.png" width="49%">
 </p>
 
@@ -23,7 +23,7 @@ Exercício 3 do relatório 7 do primeiro semestre de 2021, feito para exemplific
 ### [INPE CubeDesign Virtual 2021](http://www.inpe.br/cubedesign/2021/) - 2021 🛰️
 Máquina de estado para operação completa do sistema de reação e controle do satélite do time AlphaSat - [Inatel CubeSat Design Team](https://inatel.br/csilab/teams/cubesat-design-team). 
 
-<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/Diagrama%20de%20Estado%20INPE%20VIRTUAL%20(1).png" height="300">
+<img src="https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Imagens/Diagrama%20de%20Estado%20INPE%20VIRTUAL%20(1).png" height="400">
 
 #
 ### [Comunicação I²C com sensores usando ATmega328P](https://github.com/DIEGOVZK/Complemento_Curriculum-vitae/blob/main/Inatel%20CubeSat%20Design%20Team/sistema_sensorial_CubeSat1U/sistema_sensorial_CubeSat1U.ino) - 2020 🛰️
